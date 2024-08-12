@@ -1,0 +1,3 @@
+AgroCalc: aplicativo para auxiliar pequenos agricultores em cálculos agrícolas
+
+A revolução Agro 4.0 oferece aos pequenos agricultores ferramentas digitais avançadas para aumentar eficiência e produtividade, apesar dos desafios de custos e conhecimento técnico. Este avanço tecnológico tem um potencial particularmente transformador quando consideramos sua aplicação entre os pequenos agricultores. Este projeto visa desenvolver um aplicativo com suporte em cálculos essenciais para pequenos agricultores e videoaulas educativas ensinando a utilizar a aplicativo, superando barreiras tecnológicas e promovendo uma agricultura mais informada e sustentável.
